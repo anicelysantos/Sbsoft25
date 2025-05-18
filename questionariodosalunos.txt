@@ -1,0 +1,72 @@
+﻿Questionário de Avaliação dos Alunos sobre o Framework de Prototipação de IA EUCA
+
+
+Seção 1. Compreensão do Framework 
+1. Você entendeu os principais objetivos do framework de explicabilidade apresentado?
+   1. Sim
+   2. Não
+   3. Talvez
+
+   2. Se sim, poderia citar? Se não ou talvez, qual o motivo?
+   3. Você conseguiria explicar o framework para um colega que não participou da aplicação?
+   1. Sim
+   2. Não
+   3. Talvez
+   4. Se sim, como você explicaria? Se não ou talvez, qual o motivo?
+   5. O Framework consegue apresentar uma explicação compreensível para o usuário final?  
+   1. Sim
+   2. Não
+   3. Talvez
+   6. Se não ou talvez, qual o motivo?
+
+
+Seção 2. Aplicação prática
+As perguntas a seguir possui uma  escala de resposta. Considere: (5) concordo totalmente (4) concordo parcialmente (3) neutro (2) discordo parcialmente (1) discordo totalmente 
+   1. Como você avalia os motivos de explicação indicados no framework?
+   1. Compreensíveis
+   2. Completos
+   3. Coerentes
+   4. Úteis
+   5. Fáceis de usar
+   2. Como você avalia as formas de explicação indicadas no framework?
+   1. Compreensíveis
+   2. Completos
+   3. Coerentes
+   4. Úteis
+   5. Fáceis de usar
+   3. Como você avalia os exemplos indicados no framework?
+   1. Compreensíveis
+   2. Completos
+   3. Coerentes
+   4. Úteis
+   5. Fáceis de usar
+   4. O que poderia ser melhorado nos exemplos?
+   5. Qual impacto o uso do framework trouxe para sua forma de pensar a engenharia de requisitos no contexto de IA explicável?
+   1. Positivo
+   2. Negativo
+   3. Não sei dizer
+   6. Justifique sua resposta.
+   7. Os componentes que fazem parte do EUCA e suas interdependências (exemplos, motivos, formas e algoritmos), ajudaram positivamente na compreensão do uso da Engenharia de Requisitos no contexto da Explicabilidade em IA?
+   1. Sim
+   2. Não
+   3. Talvez
+   8. Você usaria este framework em um projeto real de IA explicável?
+   1. Sim
+   2. Não
+   3. Talvez
+   9. Justifique sua resposta.
+Seção 3. Avaliação
+   1. O framework ajudou você a pensar de forma mais estruturada sobre levantar requisitos para usuários voltados à aplicabilidade em IA?
+   1. Sim
+   2. Não
+   3. Talvez
+   2. Você incluiria ou excluiria algum item do template?
+   1. Sim
+   2. Não
+   3. Talvez
+   3. Se sim, qual?
+   4. O que você sugeriria para melhorar o processo de levantamento de requisitos em IA explicável utilizando este framework? Detalhe.
+   5. Você se sente mais preparado para levantar requisitos dos usuários em projetos de IA explicáveis após o uso do framework?
+   1. Sim
+   2. Não
+   3. Talvez
